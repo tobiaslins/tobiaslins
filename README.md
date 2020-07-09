@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Currently working on [splitbee.io](https://splitbee.io) 🐝 It's an product analytics and A/B testing tool.
+- Currently working on [splitbee.io](https://splitbee.io) 🐝   – A product analytics and A/B testing tool.
 
 <!--
 **tobiaslins/tobiaslins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
