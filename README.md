@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-- Currently working on [splitbee.io](https://splitbee.io) 🐝   – A product analytics and A/B testing tool.
+
+🐝 &nbsp; Currently working on [splitbee.io](https://splitbee.io) – A product analytics and A/B testing tool. 
+
+👨🏻‍💻 &nbsp; Freelance Consultant, System Architect - Full-Stack Development using React, React Native, NodeJS, GraphQL & Postgres
+
+🧗🏻‍♂️ &nbsp; Boulder fanatic
 
 <!--
 **tobiaslins/tobiaslins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
